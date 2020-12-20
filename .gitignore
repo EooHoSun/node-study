@@ -1,0 +1,3 @@
+#폴더 add 제외
+node_modules/
+doit-node_modules/
